@@ -118,6 +118,16 @@
 * Links
   * Link text in brackets [ ], and the URL in parenthesis ()
     * Please fill out the [application form](https://applicationform.bids.com)
+* Image
+  * use ![Description of the image](link to the image)
+    * ![Here's the preview of the venue](/assets/images/venue.png)
+* Lists
+  * Bullet Points: add a space after * or - or + and then start your sentence
+  * Ordered list: use numbers 1. 2. 3. etc.
+  * Nested Lists: start a new line with two more spaces and use - or *
+  * To-do lists: Preface list items with a hyphen - and space followed by [ ]. To mark a task as complete, use [x]
+    * - [x] Done
+      - [ ] Haven't finished yet
 
 ### Lines & Spaces
 * Leave one blank line after each section to keep the report easy to read on GitHub.
