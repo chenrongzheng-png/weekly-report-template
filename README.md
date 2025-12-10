@@ -1,4 +1,4 @@
-# weekly-report-template
+# weekly-report-template (with examples)
 
 # [Your Name]
 
@@ -45,14 +45,9 @@
 
 
 
+---------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-# weekly-report-template
+# weekly-report-template (clean)
 
 # [Your Name]
 
@@ -94,6 +89,10 @@
 ##### BIDS Coordination
 * [Tasks.]
 
+
+
+
+---------------------------------------------------------------------------------------
 
 # Legend
 
